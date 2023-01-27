@@ -12,6 +12,8 @@ import ReactInputMask from "react-input-mask";
 
 import notification from "../../services/notification";
 
+import "bootstrap/dist/css/bootstrap.min.css";
+
 const AddPaymentMethodComponent = ({
   api,
   setCartLength,
